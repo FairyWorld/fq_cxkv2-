@@ -54,7 +54,7 @@ proxy-groups:
 proxy-providers:
   all:
     type: http
-    url: "https://hm2019721.ml/clash/proxies?speed=10&type=vmess,trojanhttps://hm2019721.ml/clash/proxies?filter=1"
+    url: "https://dingyue.suying666.info/link/XEN4a563jdcyzl4o?clash=1"
     path: /provider.yaml
     health-check:
       enable: true
